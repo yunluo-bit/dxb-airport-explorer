@@ -1,0 +1,46 @@
+name: Deploy DXB Explorer to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout website source
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Assemble the V5 website
+        shell: bash
+        run: |
+          curl --fail --location --retry 3 --output "$RUNNER_TEMP/dxb-assets.zip" \
+            https://github.com/yunluo-bit/dxb-airport-explorer/releases/download/v5.0.0/dxb-assets-v5.zip
+          echo "4195341d84c6705eed31cee273481b51769a32af732c3258e8a97eb8e09fe3ea  $RUNNER_TEMP/dxb-assets.zip" | sha256sum --check
+          mkdir -p _site
+          cp *.html *.css *.js *.txt .nojekyll _site/
+          unzip -q "$RUNNER_TEMP/dxb-assets.zip" -d _site
+          test -f _site/index.html
+          test -f _site/assets/v2/model/a380.glb
+          test -f _site/assets/v4/concourse.mp4
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v5
