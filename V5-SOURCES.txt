@@ -1,0 +1,20 @@
+V5 / 11 November 2026
+
+The active cabin is newly authored THREE.js geometry in cabin-geometry.js, with rounded upholstered seats, seat-back displays, wood finishes, twin aisles, upper and main decks, open windows, overhead bins, curved ceilings, a forward stairway and a rear lounge. Repeated geometry uses InstancedMesh. Furniture textures are procedural, not photographs claimed to be scans.
+
+Published reference configuration:
+Emirates, 29 December 2020:
+https://www.emirates.com/media-centre/emirates-takes-a380-experience-to-new-heights-unveils-premium-economy-plus-enhancements-across-all-cabins/
+14 First Class + 76 Business + 56 Premium Economy + 338 Economy = 484.
+Premium Economy 2-4-2; Economy 3-4-3; staggered Business 1-2-1; forward stairs; rear upper-deck lounge.
+Counts and class zones are reference based. Row spacing, clearances, seat-shell shape, equipment placement, galley details and dimensions are approximated for this educational reconstruction. This is not an airline CAD model, a surveyed replica, or a booking map. Different Emirates A380 configurations exist.
+
+Actual cabin reference photographs remain accessible from Real photo and the panel below the viewer. See V3-SOURCES.txt and V4-SOURCES.txt for the dated assets. The 2023 First Class photo and older Business wide photo are distinct references, not an assertion that all images show the same individual aircraft.
+
+The real DXB apron photograph is now also used on distant scenery planes, visible through actual window openings. It is a 2D photographic backdrop, not a 360-degree scan or live view. See the existing Bernard Richardson / Condé Nast Traveler attribution. The cutaway fades the background while displaying the separated decks; the walking camera remains in the same 3D scene.
+
+Exterior: original unpainted A380-omega A380-800 with Trent 900 geometry; GPL-2 licence and corresponding source retained at assets/v2/model/.
+No FlyByWire asset was downloaded or incorporated. No paid asset was purchased.
+THREE.js and its MIT licence remain locally vendored.
+
+Existing V4 films and photo permissions are unchanged. No GitHub repository was created or modified and no website was published for V5.

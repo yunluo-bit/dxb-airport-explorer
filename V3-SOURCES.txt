@@ -1,0 +1,50 @@
+V3 ADDITIONAL SOURCE RECORDS — checked 11 November 2026
+
+PALETTE
+  https://dubaiairports.ae/
+  https://dubaiairports.ae/resourcepackages/da/assets/css/tailwind.css
+  Observed colours include #2C2D65, #21244F, #FED100, #F0F1FD and #E8E9FC.
+  The website uses an independent educational design, not official airport branding.
+
+AIRPORT-WIDE AERIAL
+  https://commons.wikimedia.org/wiki/File:Dubai_Airport_overview.jpg
+  Umair Shaikh, 17 December 2013. CC BY-SA 2.0.
+  https://creativecommons.org/licenses/by-sa/2.0/
+  assets/v3/dxb-overview-2013.jpg
+  The original is preserved. Browser crops and overlays do not alter the source file.
+  The capture date is explicitly displayed; this is not a current operational map.
+
+SATELLITE ARCHIVE
+  https://commons.wikimedia.org/wiki/File:Dubai_International_Airport1.jpg
+  Emirates Institution for Advanced Science and Technology (EIAST), DubaiSat-1,
+  26 November 2010. CC BY-SA 3.0.
+  https://creativecommons.org/licenses/by-sa/3.0/
+  assets/v3/dxb-satellite-2010.jpg
+  Historical overview, before later airport expansions.
+
+AIRCRAFT-SCENE BACKDROP
+  https://www.cntraveler.com/story/dubai-international-airport-is-installing-face-scanning-aquariums
+  Published 11 October 2017; the source credits photographer Bernard Richardson.
+  The photograph's exact capture date is not supplied on the page.
+  https://media.cntraveler.com/photos/59de3b724ff3bb71b475c350/4%3A3/w_1240%2Ch_930%2Cc_limit/Dubai_ca-exterior1.jpg
+  assets/v3/dxb-airside-richardson.jpg
+  Copyright retained. This is not an open-licence image; publication permission has
+  not been established. Used in this local educational preview, separately layered
+  beneath the illustrative 3D foreground. The unrelated article's proposed airport
+  technology is not used as a factual claim in the report.
+
+EMIRATES CABIN CONFIGURATION AND REAL PHOTOGRAPHS
+  https://www.emirates.com/media-centre/emirates-takes-a380-experience-to-new-heights-unveils-premium-economy-plus-enhancements-across-all-cabins/
+  Emirates press release, 29 December 2020. Photograph copyright: Emirates.
+  56 Premium Economy (2-4-2), 338 Economy, 14 First, 76 Business; upper-deck rear
+  Onboard Lounge for First and Business Class. This is the named configuration
+  example used in the spatial illustration, not a claim about every aircraft.
+  Original asset filenames: img-0474 (Premium Economy), img-1048 (Economy),
+  img-1193 (Business), img-0549 (forward stairway), img-0813 (Onboard Lounge).
+  Local copies: assets/v3/cabin-*-photo.jpg. These are actual press photographs.
+
+BASE MATERIAL
+  Original photo records, dates and limitations remain in media.js and the Sources
+  dialog. The existing unpainted model source and GPL licence remain unchanged.
+  The rest-cabin addition reuses the verified Sleepover cabin photograph already
+  included in the original project; it is now visible within scene 07 as well.

@@ -1,0 +1,38 @@
+V4 media and presentation record — 11 November 2026
+
+VIDEO
+Dubai Airports: Dubai Airports celebrates unified service and service excellence in an entertaining new film.
+https://media.dubaiairports.ae/dubai-airports-celebrates-unified-service-and-service-excellence-in-an-entertaining-new-film/
+Published October 2024. oneDXB is a staged campaign filmed at the real airport; not observational footage of the teaching scenarios.
+Original public MP4 source:
+https://content.presspage.com/uploads/2537/3556da4b-7346-4b26-9e7a-75d4d1229a00/onedxb.mp4?10000
+Original 1920x972, 25 fps, duration 120.06 seconds. Excerpts retain original speed, are muted, resized to 1440x730 and compressed to H.264. No generated video or fabricated moving people/aircraft.
+concourse.mp4: 31.2–35.8 seconds; home.
+people.mp4: 25.1–31.1 seconds; transfer chapter.
+journey.mp4: 69.2–79.6 seconds; evaluation chapter.
+dining.mp4: 80.0–92.4 seconds; a separate filmed dining example alongside the Food Village photo task. It is not labelled as a recording of Food Village.
+departure.mp4: 114.7–119.9 seconds; closing excerpt with original oneDXB branding.
+Copyright Dubai Airports. Local educational preview. Public reuse rights are not established.
+
+NEW CABIN PHOTOGRAPHS
+First Class suite:
+https://www.emirates.com/media-centre/first-retrofitted-emirates-a380-enters-service/
+6 January 2023 release; capture date unspecified.
+https://content.presspage.com/uploads/2431/a380firstclassnewsuitecolours.jpg?10000
+4176x2712, real press photograph; copyright Emirates.
+
+Business Class layout:
+https://www.emirates.com/english/experience/cabin-features/business-class/a380/
+https://c.ekstatic.net/ecl/aircraft-interior/business-class/a380/emirates-business-class-seats-wide-view-w768x256.jpg
+768x256, real cabin photograph. Capture date unspecified. Furnishings vary by aircraft. Copyright Emirates.
+
+Existing Premium Economy, Economy, Business seat detail, stairs and lounge photographs:
+https://www.emirates.com/media-centre/emirates-takes-a380-experience-to-new-heights-unveils-premium-economy-plus-enhancements-across-all-cabins/
+29 December 2020 release. Cabin example: 14 First, 76 Business, 56 Premium Economy, 338 Economy. The small zone navigator gives relative class locations, not a scale seat plan or bookable layout.
+
+MODEL AND COMPOSITING
+Accurate existing A380-800 / Trent 900 exterior retained; original unpainted texture and community licence retained. A real airport background and transparent ground shadow replace the old opaque procedural apron. The camera is fitted for the foreground; free viewing is illustrative, not a calibrated photogrammetric reconstruction.
+The opening effect clips the exterior and transitions into real photographic spaces. No low-poly individual seat blocks are shown in the finished cabin view. It is a photographic exploration, not a walkable full 3D interior.
+The old model take-off is removed from the active page and active model module.
+
+See V3-SOURCES.txt and in-page Sources for inherited aircraft, whole-airport aerial, satellite and facility photo credits. Photographic dates remain distinct from the 2025 annual passenger statistic.
